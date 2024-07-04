@@ -1,0 +1,19 @@
+/* fonts linking */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/* Global css */
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+h2{
+    text-align: center;
+}
+.c-height{
+    height: 100vh;
+    background-color: #FAF9F6;
+}
+.left-side {
+    background: url(../img/callcenter.jpg) center center no-repeat;
+    background-size: cover;
+}
